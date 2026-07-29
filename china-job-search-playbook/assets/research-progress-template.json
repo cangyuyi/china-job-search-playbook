@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "session_id": "",
+  "started_at": "",
+  "updated_at": "",
+  "scope": {
+    "candidate_type": "",
+    "cities": [],
+    "industries": [],
+    "job_families": [],
+    "employer_types": [],
+    "recruitment_types": [],
+    "time_window": {
+      "from": "",
+      "to": ""
+    }
+  },
+  "search_events": [],
+  "unresolved_items": [],
+  "next_actions": []
+}

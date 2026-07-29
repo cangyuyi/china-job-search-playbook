@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职通关攻略"
+  short_description: "覆盖中国大陆岗位搜索监控、求职材料、谈薪与录用闭环"
+  default_prompt: "使用 $china-job-search-playbook，根据我的真实情况搜索并监控中国大陆岗位，同时准备对应的投递、沟通和谈薪材料。"

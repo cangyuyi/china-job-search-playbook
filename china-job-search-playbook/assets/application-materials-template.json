@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "job_id": "",
+  "company": "",
+  "title": "",
+  "source_url": "",
+  "source_snapshot_id": "",
+  "source_fields_hash": "",
+  "source_verified_at": "",
+  "created_at": "YYYY-MM-DD",
+  "cover_letter": {
+    "required": false,
+    "language": "zh-CN",
+    "channel": "",
+    "subject": "",
+    "salutation": "",
+    "paragraphs": [
+      {
+        "paragraph_id": "cl_001",
+        "purpose": "motivation_or_fit_or_evidence",
+        "text": "",
+        "claim_ids": []
+      }
+    ],
+    "closing": "",
+    "status": "draft"
+  },
+  "online_application_questions": [
+    {
+      "question_id": "qa_001",
+      "question": "",
+      "answer": "",
+      "character_limit": null,
+      "claim_ids": [],
+      "assumptions": [],
+      "risk_flags": [],
+      "status": "draft"
+    }
+  ],
+  "referral_messages": [
+    {
+      "message_id": "ref_001",
+      "recipient_type": "alumni_or_employee_or_recruiter",
+      "relationship_basis": "",
+      "channel": "",
+      "purpose": "information_or_referral_or_follow_up",
+      "message": "",
+      "claim_ids": [],
+      "follow_up_date": "",
+      "send_authorized": false,
+      "status": "draft"
+    }
+  ],
+  "negotiation_brief": {
+    "stage": "pre_offer_or_verbal_offer_or_written_offer",
+    "written_offer_verified": false,
+    "current_offer": {
+      "currency": "CNY",
+      "monthly_fixed": null,
+      "guaranteed_months": null,
+      "guaranteed_cash_allowances": null,
+      "target_bonus": null,
+      "probation_months": null,
+      "probation_pay_ratio": null,
+      "other_terms": []
+    },
+    "priorities": [],
+    "market_evidence": [],
+    "candidate_leverage": [],
+    "target": {
+      "unit": "annual_guaranteed_cash_cny",
+      "floor": null,
+      "target": null,
+      "stretch": null,
+      "basis": []
+    },
+    "tradeable_terms": [],
+    "questions_to_confirm": [],
+    "scripts": {
+      "opening": "",
+      "counteroffer": "",
+      "if_budget_fixed": "",
+      "closing": ""
+    },
+    "decision_deadline": "",
+    "send_authorized": false,
+    "status": "draft"
+  }
+}

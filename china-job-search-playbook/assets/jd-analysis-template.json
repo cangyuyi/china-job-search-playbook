@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "job_id": "company_role_YYYYMMDD",
+  "company": "",
+  "title": "",
+  "location": "",
+  "candidate_batch": "",
+  "source_url": "",
+  "verified_at": "YYYY-MM-DD",
+  "hard_requirements": [
+    {
+      "requirement_id": "hard_001",
+      "text": "",
+      "profile_match": "unknown",
+      "evidence_ids": [],
+      "note": ""
+    }
+  ],
+  "responsibilities": [
+    {
+      "responsibility_id": "resp_001",
+      "text": "",
+      "weight": 100,
+      "tags": [],
+      "tasks": [],
+      "tools": [],
+      "keywords": []
+    }
+  ],
+  "preferred_qualifications": [],
+  "industry_terms": [],
+  "business_metrics": [],
+  "behavioral_competencies": [],
+  "implicit_evaluations": [],
+  "exclusions": []
+}

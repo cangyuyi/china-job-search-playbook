@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Local candidate workspaces and generated job-search data
+career-workspace/
+candidate-profile.json
+companies.json
+jobs.json
+research-progress.json
+source-snapshots.json
+monitoring.json
+applications.csv
+training.csv
+source-captures/

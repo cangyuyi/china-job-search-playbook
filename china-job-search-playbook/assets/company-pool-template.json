@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "YYYY-MM-DD",
+  "employer_type_values": [
+    "central_soe",
+    "local_soe",
+    "public_institution",
+    "internet_platform",
+    "industry_leader",
+    "foreign_invested",
+    "quality_private",
+    "specialized_sme",
+    "regional_leader",
+    "unicorn_company",
+    "vc_backed",
+    "small_champion",
+    "research_commercialization"
+  ],
+  "company_field_template": {
+    "company_id": "cmp_001",
+    "name": "",
+    "employer_type": "unicorn_company",
+    "employer_tags": [],
+    "industry": "",
+    "cities": [],
+    "unicorn_status": "",
+    "unicorn_list_or_source": "",
+    "unicorn_list_year": "",
+    "latest_funding_or_valuation": "",
+    "career_url": "",
+    "discovery_sources": [],
+    "verified_at": "YYYY-MM-DD",
+    "risk_flags": [],
+    "search_status": "not_checked"
+  },
+  "companies": []
+}

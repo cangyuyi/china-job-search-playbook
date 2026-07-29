@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "profile_main",
+  "updated_at": "YYYY-MM-DD",
+  "consent_to_persist": false,
+  "person": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "current_city": "",
+    "graduation_date": "",
+    "links": []
+  },
+  "preferences": {
+    "candidate_type": "campus_or_experienced_or_intern",
+    "target_job_families": [],
+    "adjacent_job_families": [],
+    "target_industries": [],
+    "target_cities": [],
+    "commute_radius": "",
+    "relocation": "",
+    "salary_floor_cny": "",
+    "preferred_employer_types": [],
+    "non_negotiables": [],
+    "languages": ["zh-CN"],
+    "deliverables": ["content", "docx", "pdf"]
+  },
+  "education": [
+    {
+      "education_id": "edu_001",
+      "school": "",
+      "major": "",
+      "degree": "",
+      "start_date": "",
+      "end_date": "",
+      "gpa": "",
+      "rank": "",
+      "coursework": [],
+      "honors": [],
+      "certificates": [],
+      "verification": "pending"
+    }
+  ],
+  "experiences": [
+    {
+      "experience_id": "exp_001",
+      "type": "internship_or_work_or_project_or_activity",
+      "organization": "",
+      "role": "",
+      "start_date": "",
+      "end_date": "",
+      "context": "",
+      "responsibility_scope": "",
+      "claim_ids": []
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "clm_001",
+      "experience_id": "exp_001",
+      "statement": "",
+      "verification": "pending",
+      "strength": 1,
+      "date": "",
+      "tags": [],
+      "tasks": [],
+      "tools": [],
+      "outcome_type": "",
+      "responsibility_scope": "",
+      "source": "",
+      "allowed_numbers": [],
+      "do_not_overstate": "",
+      "sensitive": false
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "evidence_claim_ids": [],
+      "certificate_or_link": ""
+    }
+  ],
+  "constraints": {
+    "facts_not_to_use": [],
+    "sensitive_notes": [],
+    "availability": "",
+    "work_authorization": "",
+    "travel": "",
+    "shift_work": "",
+    "rotation_or_transfer": ""
+  }
+}

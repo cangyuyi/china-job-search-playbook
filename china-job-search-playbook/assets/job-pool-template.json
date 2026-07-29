@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "YYYY-MM-DD",
+  "employer_type_values": [
+    "central_soe",
+    "local_soe",
+    "public_institution",
+    "internet_platform",
+    "industry_leader",
+    "foreign_invested",
+    "quality_private",
+    "specialized_sme",
+    "regional_leader",
+    "unicorn_company",
+    "vc_backed",
+    "small_champion",
+    "research_commercialization"
+  ],
+  "jobs": []
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "job_id": "",
+  "resume_file": "",
+  "created_at": "YYYY-MM-DD",
+  "bullets": [
+    {
+      "bullet_id": "b_001",
+      "section": "",
+      "text": "",
+      "claim_ids": [],
+      "status": "draft"
+    }
+  ]
+}
